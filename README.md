@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15523056780278.jpg">
+    <img width="200" heigth="200" src="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15523056780278.jpg">
+  </a>
+</div>
+
 # HLT Reading Group 第一期《知识图谱》
 
 ### 阅读
